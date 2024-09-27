@@ -17,5 +17,4 @@ This project is an **Online Resume Builder** web application that allows users t
 
 ### Prerequisites
 - PHP >= 7.4
-- MySQL Database
 - A local server (e.g., XAMPP, WAMP, or LAMP)
